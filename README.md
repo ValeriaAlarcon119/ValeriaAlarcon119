@@ -34,7 +34,7 @@ Diseño y construyo experiencias digitales premium, desde APIs robustas y escala
 ### 📫 Conectemos
 * 📧 [valerialarcon119@gmail.com](mailto:valerialarcon119@gmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/valeria-alarcon-andrade/)
-* 🌐 [Portafolio Profesional](https://valerialarcon.vercel.app/)
+* 🌐 [Portafolio Profesional](https://www.linkedin.com/in/valeria-alejandra-alarcon-andrade-543722221/)
 
 ---
 <p align="center">
