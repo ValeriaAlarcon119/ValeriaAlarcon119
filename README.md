@@ -134,7 +134,7 @@ Optimicé el procesamiento de información transaccional y la integridad de las 
 ### 🛠️ Desarrolladora Full Stack
 
 **TecnoPlanet | Pasto, Colombia**
-**Julio 2023 – Abril 2024**
+**Julio 2023 – Marzo 2024**
 
 Contribuí en la evolución de sistemas administrativos y de inventario.
 
