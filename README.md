@@ -2,11 +2,11 @@
 
 **Ingeniera de Sistemas | Desarrollo Full Stack**
 
-Me especializo en el desarrollo de aplicaciones web y soluciones empresariales, participando en diferentes etapas del ciclo de desarrollo: análisis de requerimientos, construcción de funcionalidades, integración de APIs y servicios externos, gestión de datos, seguridad y despliegue.
+Me dedico al desarrollo de aplicaciones web y soluciones empresariales, participando en diferentes etapas del ciclo de desarrollo: análisis de requerimientos, construcción de funcionalidades, integración de APIs y servicios externos, gestión de datos, seguridad y despliegue.
 
 He trabajado en proyectos para clientes de Colombia, México y Estados Unidos, desarrollando soluciones orientadas a productos digitales, automatización e integración de sistemas.
 
-Actualmente estoy enfocada en el desarrollo Full Stack, integraciones entre sistemas y construcción de soluciones tecnológicas escalables.
+Actualmente estoy enfocada en el desarrollo de Software Full Stack, integraciones entre sistemas y construcción de soluciones tecnológicas escalables.
 
 📍 Pasto, Nariño, Colombia 🇨🇴
 
@@ -50,7 +50,7 @@ Git · GitHub · Vite · Clean Architecture · Arquitectura Hexagonal · Microse
 
 ## 🧠 Áreas de interés
 
-* Desarrollo Full Stack
+* Desarrollo de software Full Stack
 * Desarrollo de aplicaciones web
 * Integración de APIs y servicios externos
 * Automatización de procesos
