@@ -1,6 +1,6 @@
 # ¡Hola! Soy Valeria Alarcón Andrade 👋
 
-**Ingeniera de Sistemas | Desarrollo Full Stack**
+**Ingeniera de Sistemas | Desarrollo de Software Full Stack**
 
 Me dedico al desarrollo de aplicaciones web y soluciones empresariales, participando en diferentes etapas del ciclo de desarrollo: análisis de requerimientos, construcción de funcionalidades, integración de APIs y servicios externos, gestión de datos, seguridad y despliegue.
 
